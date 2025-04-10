@@ -1,0 +1,2 @@
+ngrok authtoken 2WYVYWnrNgKMDeYUyIw9tK7AFcD_2zLnHxBNbQTj4k8BpXi86
+ngrok http 5000 -region jp
